@@ -11,10 +11,5 @@ This is a simple and stylish email subscription form built using HTML and CSS. N
 
 📄 Feel free to use, share, and modify it! 😄
 
-📁 Project Structure -
-
-subscription-page/
-├── index.html      👉 The main HTML file
-└── styles.css      🎨 The CSS file for styling
 
 
